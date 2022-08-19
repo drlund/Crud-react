@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Sobre a aplicação:
+
+Aplicação React utilizando componentes de classe. Atualmente, o uso de classes em aplicações React está ficando em desuso. No entanto, existem muitas aplicações legadas, para as quais o presente exemplo pode ser consultado.
+
 ## Available Scripts
 
 In the project directory, you can run:
